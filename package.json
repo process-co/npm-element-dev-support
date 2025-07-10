@@ -26,9 +26,6 @@
     "email": "developers@process.co"
   },
   "devDependencies": {
-    "@process.co/compatibility": "workspace:0.0.0-development",
-    "@process.co/element-types": "workspace:0.0.0-development",
-    "@process.co/elements": "workspace:0.0.0-development",
     "@repo/config-typescript": "workspace:^",
     "@types/node": "^22.13.14",
     "rollup": "^4.44.2",

@@ -26,12 +26,18 @@
     "email": "developers@process.co"
   },
   "devDependencies": {
+    "@fortawesome/react-fontawesome": ">=0.2.0",
+    "@monaco-editor/react": ">=4.0.0",
+    "@process.co/ui": "workspace:0.0.0-development",
     "@repo/config-typescript": "workspace:^",
     "@types/node": "^22.13.14",
+    "clsx": ">=2.0.0",
     "rollup": "^4.44.2",
     "rollup-plugin-dts": "^6.2.1",
+    "tailwind-merge": ">=3.0.0",
     "tsup": "^8.5.0",
-    "typescript": "^5.7.3"
+    "typescript": "^5.7.3",
+    "zustand": ">=5.0.0"
   },
   "license": "ISC"
 }

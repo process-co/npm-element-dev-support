@@ -8,6 +8,6 @@ export default defineConfig({
   target: 'node20',
   external: [], // ← disables all externals (bundles everything)
    // Optional but recommended in monorepos:
-   noExternal: ['@process.co/element-types', '@process.co/elements', '@process.co/compatibility', '@process.co/ui'],
+   noExternal: ['@process.co/element-types', '@process.co/compatibility', '@process.co/ui'],
 
 })
